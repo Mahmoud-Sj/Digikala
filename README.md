@@ -8,7 +8,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=plastic&logo=css3&logoColor=%231572B6&labelColor=white&color=%235D5D5D&link=https%3A%2F%2Fwww.python.org)
 
 
-[![Go to site](https://www.digikala.com/statics/img/svg/logo.svg)](https://digikala.com)
+
+[![Go to site](https://github.com/Mahmoud-Sj/digikala/assets/165766357/316633f8-9b68-48c1-9a46-f96937eadb06)](https://digikala.com)
 
 
 
@@ -18,8 +19,11 @@
 
 
 
-[![download](https://github.com/Mahmoud-Sj/Digikala/assets/165766357/4c1b0c88-c6ed-4986-b530-ac5d52e8e457)](https://www.elecodeiranzamin.com)
-[![github](https://github.com/Mahmoud-Sj/Digikala/assets/165766357/c700a4e5-dcb1-4a97-8654-b78bb713ee78)](https://github.com/turajarmin)
-[![youtube](https://github.com/Mahmoud-Sj/Digikala/assets/165766357/efd0efa1-d25a-4394-ac4c-bb30b34fb539)](https://www.youtube.com/@ELECodecenter)
+[![electro](https://github.com/Mahmoud-Sj/digikala/assets/165766357/3df55f62-f6bf-47f6-9053-bddb049508bd)](https://www.elecodeiranzamin.com)
+[![github](https://github.com/Mahmoud-Sj/digikala/assets/165766357/95fffe5c-1842-404b-8098-fed598c237b0)](https://github.com/turajarmin)
+[![youtube](https://github.com/Mahmoud-Sj/digikala/assets/165766357/ecb03cd8-90e7-4adc-9f23-0bf8d45032de)](https://www.youtube.com/@ELECodecenter)
+
+
+
 
 
